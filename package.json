@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-deploy",
+  "version": "1.0.0",
+  "description": "Deploy api clase 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstebanM159/rest-api-deploy.git"
+  },
+  "author": "Esteban Montenegro",
+  "license": "ISC",
+ 
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.18.2",
+    "zod": "3.22.4"
+  }
+}
